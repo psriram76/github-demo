@@ -5,4 +5,4 @@ The race became controversial because of a driver change made by the No. 20 JGR 
 This is a sample only and for learning the git tutorials
 once this is done i am good guys!!
 
-
+This is a sample only. Learning purpose 
